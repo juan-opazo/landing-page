@@ -30,6 +30,11 @@ const navElements = [];
  * 
 */
 
+/**
+* @description Create li tags
+* @param {object} section
+* @returns {object} return a li element
+*/
 const createNavElement = function(section) {
     const navElement = document.createElement('li');
     navElement.textContent = section.getAttribute('data-nav');
