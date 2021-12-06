@@ -1,4 +1,4 @@
-# landing-page
+# Landing Page Project
 Exercise 2 - Udacity Front End Web Developer Course
 
 # Project Description

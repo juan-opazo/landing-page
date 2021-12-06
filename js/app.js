@@ -22,7 +22,7 @@
  * Define Global Variables
  * 
 */
-var sections = document.querySelectorAll('section');
+let sections = document.querySelectorAll('section');
 const navElements = [];
 /**
  * End Global Variables
